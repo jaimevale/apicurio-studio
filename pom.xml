@@ -64,7 +64,7 @@
         <version.io.thorntail>2.7.0.Final</version.io.thorntail>
 
         <!-- Quarkus Version -->
-        <version.io.quarkus>1.7.1.Final</version.io.quarkus>
+        <version.io.quarkus>1.8.0.Final</version.io.quarkus>
 
         <!-- Apicurio Data Models -->
         <version.apicurio-data-models>1.1.4</version.apicurio-data-models>
@@ -108,9 +108,9 @@
         <version.com.sun.codemodel>2.6</version.com.sun.codemodel>
         <version.commons-beanutils>1.9.4</version.commons-beanutils>
         <version.commons-cli>1.4</version.commons-cli>
-        <version.commons-codec>1.14</version.commons-codec>
+        <version.commons-codec>1.15</version.commons-codec>
         <version.commons-dbcp>1.4</version.commons-dbcp>
-        <version.commons-io>2.7</version.commons-io>
+        <version.commons-io>2.8.0</version.commons-io>
         <version.commons-lang>2.6</version.commons-lang>
         <version.commons-lang3>3.11</version.commons-lang3>
         <version.io.gatling>3.3.1</version.io.gatling>
@@ -123,7 +123,7 @@
         <version.org.apache.httpcore>4.4.13</version.org.apache.httpcore>
         <version.org.apache.commons.commons-pool2>2.8.1</version.org.apache.commons.commons-pool2>
         <version.org.eclipse.mylyn.github>2.1.5</version.org.eclipse.mylyn.github>
-        <version.org.jboss.resteasy>3.13.0.Final</version.org.jboss.resteasy>
+        <version.org.jboss.resteasy>3.13.1.Final</version.org.jboss.resteasy>
         <version.org.jboss.spec.javax.servlet.jboss-servlet-api_3.0_spec>1.0.2.Final</version.org.jboss.spec.javax.servlet.jboss-servlet-api_3.0_spec>
         <version.org.jboss.spec.javax.websocket.jboss-websocket-api_1.1_spec>2.0.0.Final</version.org.jboss.spec.javax.websocket.jboss-websocket-api_1.1_spec>
         <version.org.jboss.spec.javax.ws.jboss-jaxrs-api_2.1_spec>2.0.1.Final</version.org.jboss.spec.javax.ws.jboss-jaxrs-api_2.1_spec>
@@ -131,12 +131,12 @@
         <version.org.jdbi>3.14.4</version.org.jdbi>
         <version.org.json>20200518</version.org.json>
         <version.org.jsonschema2pojo>1.0.2</version.org.jsonschema2pojo>
-        <version.org.keycloak>11.0.1</version.org.keycloak>
+        <version.org.keycloak>11.0.2</version.org.keycloak>
         <version.mysql>8.0.21</version.mysql>
         <version.org.postgresql>9.4.1212</version.org.postgresql>
         <version.org.slf4j>1.7.30</version.org.slf4j>
         <version.scala>2.13.3</version.scala>
-        <version.infinispan>12.0.0.Dev02</version.infinispan>
+        <version.infinispan>12.0.0.Dev3</version.infinispan>
     </properties>
 
     <dependencyManagement>
