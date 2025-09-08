@@ -24,7 +24,7 @@ back-end component.
 Start the development server
 `npm run dev`
 
-Once the development server is running you can access the UI via http://localhost:8888
+Once the development server is running you can access the UI via http://localhost:9999
 
 Note that you will need a registry back-end running for the UI to actually work.  The easiest way to do this is using
 docker, but you could also run the registry from maven or any other way you choose.  Here is how you do it with Docker:

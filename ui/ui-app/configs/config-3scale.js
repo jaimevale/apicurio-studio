@@ -5,7 +5,7 @@ const ApicurioStudioConfig = {
     auth: {
         type: "oidc",
         options: {
-            redirectUri: "http://localhost:8888/",
+            redirectUri: "http://localhost:9999/",
             clientId: "studio-ui",
             url: "https://sso.dev.apicur.io/realms/apicurio"
         }

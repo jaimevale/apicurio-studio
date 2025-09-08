@@ -56,18 +56,18 @@ script from the `ui-app` directory.  For more details see [ui-app/README.md](ui-
 npm run dev
 ```
 
-This will start the UI in dev mode, hosted (by default) on port 8888.  When running successfully,
+This will start the UI in dev mode, hosted (by default) on port 9999.  When running successfully,
 you should see output similar to:
 
 ```
   VITE v4.4.11  ready in 149 ms
 
-  ➜  Local:   http://127.0.0.1:8888/
+  ➜  Local:   http://127.0.0.1:9999/
   ➜  Network: use --host to expose
   ➜  press h to show help
 ```
 
-You can then access the UI on port 8888 or your localhost.
+You can then access the UI on port 9999 or your localhost.
 
 **Note**:  you will need the REST API running for the UI to work.  See the README at the root of
 this repository for examples of how to do that.
@@ -84,7 +84,7 @@ npm install
 npm run test
 ```
 
-The tests assume that the UI is running on localhost port 8888.
+The tests assume that the UI is running on localhost port 9999.
 
 Note that you need to have Playwright installed for this to work.  Typically you can install
 Playwright with the following command:
